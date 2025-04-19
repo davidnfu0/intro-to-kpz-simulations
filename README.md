@@ -67,7 +67,7 @@ For example, to run the deposition model simulation, use:
 python -m deposition_model
 ```
 
-To run simulations on Google Colab, upload the .py files to your environment and execute them there.
+To run simulations on Google Colab, upload the .py files to your environment.
 ___
 
 ## Contributing
