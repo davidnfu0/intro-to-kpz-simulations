@@ -14,6 +14,7 @@ Below is a preview of one of the simulations. The following GIF illustrates the 
 <div style="text-align: center;">
     <img src="resources/ballistic_deposition_model_animation.gif" alt="Simulation Preview" width="40%">
 </div>
+
 ___
 
 ## Installation and setup
@@ -21,7 +22,7 @@ ___
 0. Clone the repository:
 
 ```bash
-git clone ..
+git clone git@github.com:davidnfu0/intro-to-kpz-simulations.git
 ```
 
 1. *(Optional)* Create a virtual environment, using `venv` or `conda`.
